@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-datocms-demo",
-  "description": "Gatsby DatoCMS creative portfolio demo",
+  "name": "gkw-io",
+  "description": "GKW.IO",
   "version": "1.0.0",
-  "author": "Stefano Verna <s.verna@datocms.com>",
+  "author": "H. Sinan Alioglu <sinan@gkw.io>",
   "dependencies": {
     "dotenv": "^8.1.0",
     "gatsby": "^2.18.8",
