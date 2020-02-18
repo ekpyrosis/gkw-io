@@ -7,3 +7,9 @@ public/
 .DS_Store
 yarn-error.log
 .env
+.idea/.gitignore
+.idea/gkw-io.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+package-lock.json
