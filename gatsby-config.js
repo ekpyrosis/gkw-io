@@ -41,5 +41,13 @@ module.exports = {
                 apiToken: process.env.DATO_API_TOKEN,
             },
         },
+        {
+            resolve: 'gatsby-plugin-robots-txt',
+            options: {
+                host: 'https://gkw.io',
+                sitemap: 'https://gkw.io/sitemap.xml',
+                policy: [{ userAgent: '*', allow: '/' }]
+            }
+        },
     ],
 }
